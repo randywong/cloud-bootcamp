@@ -1,3 +1,7 @@
 # cloud-bootcamp
 
-... testing folder move ...
+1. First sync
+
+2. Modified README
+
+
